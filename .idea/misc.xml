@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/drawable/ic_baseline_fullscreen_expand.xml" value="0.118" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/drawable/ic_baseline_fullscreen_shrink.xml" value="0.118" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/activity_fullscreen_video.xml" value="0.152" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/activity_splash.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/exoplayer_custom_controls.xml" value="0.152" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/menu_action_view.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/videoitem.xml" value="0.2" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/layout/view_custom_title.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/davidsonlistmenu.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/guidelinelistmenu.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/menu.xml" value="0.176" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/menu_full_screenfreevideo.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/menu_layoutshare.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/menu_main.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/menu_speed.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/nav_menu_layout.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Tarek Khan/AndroidStudioProjects/VideoFlexPro/app/src/main/res/menu/videosearch.xml" value="0.18177083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
