@@ -29,6 +29,11 @@ VideoFlex is an Android application that enables seamless video streaming using 
 </div>
 
 
+## Video Preview
+
+![videoflex](https://github.com/Imran53/VideoFlex/assets/53171337/b2744dab-3f74-4aeb-be82-74db1207434d)
+
+
 ## Getting Started
 
 To get started with VideoFlex, follow these steps:
