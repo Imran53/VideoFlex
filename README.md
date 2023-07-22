@@ -44,7 +44,6 @@ To get started with VideoFlex, follow these steps:
 4. Update the necessary Firebase and ExoPlayer dependencies in the `build.gradle` file.
 5. Run the app on an Android device or emulator.
 
-Make sure to replace `[repository URL]` with the actual URL of your GitHub repository.
 
 
 ## Dependencies
